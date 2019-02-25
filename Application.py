@@ -8,7 +8,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 
 
-# <----------- Este trecho de código serve especificamente para a Autenticação necessária para a coneção ----------->
+# <----------- Este trecho de código serve especificamente para a Autenticação necessária para a conexão ----------->
 # Criando as Consumer's key
 consumer_key = 'XXXXXXX'
 consumer_secret = 'XXXXXXX'
